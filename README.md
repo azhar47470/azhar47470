@@ -1,6 +1,7 @@
 # Hi there, I'm Azhar 👋
 
 🎓 1st Semester CS student who enjoys breaking problems down and building things from scratch.
+
 💻 Currently learning C++ and Python  
 🚀 Building projects to sharpen my programming skills  
 🎯 Currently going deep into C++ — focusing on logic, efficiency, and clean thinking.
